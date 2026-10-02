@@ -1,26 +1,23 @@
-
 # Buggy Health Monitor
 
-A beginner-friendly Python OOP and Machine Learning
-project demonstrating Random Forest classification
-for buggy sensor-condition monitoring.
+A beginner-friendly Python OOP and Machine Learning project demonstrating Random Forest classification for buggy sensor-condition monitoring.
 
 ## Features
 
-- Python classes and objects
-- Sensor data handling
-- Random Forest classifier
-- Model training and prediction
-- Model saving and loading
-- Command-line menu
+* Python classes and objects
+* Sensor data handling
+* Random Forest classifier
+* Model training and prediction
+* Model saving and loading
+* Command-line menu
 
 ## Technologies
 
-- Python
-- Object-Oriented Programming
-- Scikit-learn
-- Joblib
-- NumPy
+* Python
+* Object-Oriented Programming
+* Scikit-learn
+* Joblib
+* NumPy
 
 ## Project Files
 
@@ -34,6 +31,13 @@ Buggy_Health_Monitor/
 ```
 
 ## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/siddhihack45-spg/Buggy_Health_Monitor.git
+cd Buggy_Health_Monitor
+```
 
 Install the required libraries:
 
@@ -57,13 +61,10 @@ python main.py
 
 ## Important
 
-This is an educational demonstration using
-synthetic data. Its predictions and accuracy
-do not represent real buggy fault detection.
+This is an educational demonstration using synthetic data. Its predictions and accuracy do not represent real buggy fault detection.
 
-Real deployment requires real, labeled sensor
-measurements and proper validation.
+Real deployment requires real, labeled sensor measurements and proper validation.
 
 ## Author
 
-Siddhi Gore
+**Siddhi Gore**
